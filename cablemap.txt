@@ -218,3 +218,44 @@ Maya-1 Verizon-AT&T-Sprint-Hondutel-Telefonica-Orbitel-Telecom-Italia-Sparkle-C&
 Maya-1 Verizon-AT&T-Sprint-Hondutel-Telefonica-Orbitel-Telecom-Italia-Sparkle-C&W-Networks-Embratel-ETB-Axtel-Instituto-Costarricense-de-Electricidad-BICS-Prepa-Networks-Orange-Tricom-RSL-Telecom-América-Móvil 2000 4400 Puerto-Cortes Honduras
 Maya-1 Verizon-AT&T-Sprint-Hondutel-Telefonica-Orbitel-Telecom-Italia-Sparkle-C&W-Networks-Embratel-ETB-Axtel-Instituto-Costarricense-de-Electricidad-BICS-Prepa-Networks-Orange-Tricom-RSL-Telecom-América-Móvil 2000 4400 Puerto-Limon-Costa-Rica
 Maya-1 Verizon-AT&T-Sprint-Hondutel-Telefonica-Orbitel-Telecom-Italia-Sparkle-C&W-Networks-Embratel-ETB-Axtel-Instituto-Costarricense-de-Electricidad-BICS-Prepa-Networks-Orange-Tricom-RSL-Telecom-América-Móvil 2000 4400 Tolu Colombia
+Med-Cable-Network Orascom-Telecom-Holding 2005 1300 Algiers Algeria
+Med-Cable-Network Orascom-Telecom-Holding 2005 1300 Annaba Algeria
+Med-Cable-Network Orascom-Telecom-Holding 2005 1300 Marseille France
+Med-Cable-Network Orascom-Telecom-Holding 2005 1300 Oran Algeria
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Athens Greece
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Catania
+Italy
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Chania Greece
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Haifa
+Israel
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Istanbul Turkey
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Pentaskhinos Cyprus
+MedNautilus-Submarine-System Telecom-Italia-Sparkle 2001 7000 Tel-Aviv
+Israel
+Melita-1 Melita 2009 97 Bahar-ic-Caghaq Malta
+Melita-1 Melita 2009 97 Pozzallo Italy
+Meltingpot-Indianoceanic-Submarine-System Telma-CEB-Fibernet-Emtel-Canal+-Telecom-SFR-Zeop-incl-Reunicable Baie-du-Tombeau Mauritius
+Meltingpot-Indianoceanic-Submarine-System Telma-CEB-Fibernet-Emtel-Canal+-Telecom-SFR-Zeop-incl-Reunicable Fort Dauphin Madagascar
+Meltingpot-Indianoceanic-Submarine-System Telma-CEB-Fibernet-Emtel-Canal+-Telecom-SFR-Zeop-incl-Reunicable Le Port Réunion
+Meltingpot-Indianoceanic-Submarine-System Telma-CEB-Fibernet-Emtel-Canal+-Telecom-SFR-Zeop-incl-Reunicable Umbogintwini South-Africa
+Mid-Atlantic-Crossing CenturyLink 2000 7500 Brookhaven-NY United-States
+Mid-Atlantic-Crossing CenturyLink 2000 7500 Hollywood-FL United-States
+Mid-Atlantic-Crossing CenturyLink 2000 7500 St-Croix-VI United-States
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International Telecom-Egypt-Gulf-Bridge-International 2014 8000 Abu-Talat Egypt
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International Telecom-Egypt-Gulf-Bridge-International 2014 8000 Al-Seeb Oman
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International Telecom-Egypt-Gulf-Bridge-International 2014 8000 Djibouti-City
+Djibouti
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International Telecom-Egypt-Gulf-Bridge-International 2014 8000 Jeddah Saudi-Arabia
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International Telecom-Egypt-Gulf-Bridge-International 2014 8000 Mazara-del-Vallo Italy
+Middle-East-North-Africa-Cable-System/Gulf-Bridge-International  Telecom-Egypt-Gulf-Bridge-International 2014 8000 Zafarana Egypt
+MIST  Orient-Link 2022 11000 Chennai India
+MIST  Orient-Link 2022 11000 Mumbai India
+MIST  Orient-Link 2022 11000 Ngwe-Saung Myanmar
+MIST  Orient-Link 2022 11000 Tuas Singapore
+Miyazaki-Okinawa-Cable  KDDI 1997 na Miyazaki Japan
+Miyazaki-Okinawa-Cable  KDDI 1997 na Okinawa Japan
+Monet Angola-Cables-Google-Algar-Telecom-Antel-Uruguay 2017 10556 Boca-Raton-FL United-States
+Monet Angola-Cables-Google-Algar-Telecom-Antel-Uruguay 2017 10556 Fortaleza Brazil
+Monet Angola-Cables-Google-Algar-Telecom-Antel-Uruguay 2017 10556 Santos Brazil
+Moratelindo-International-Cable-System1 Moratelindo 2008 70 Batam Indonesia
+Moratelindo-International-Cable-System1 Moratelindo 2008 70 Changi-North Singapore
