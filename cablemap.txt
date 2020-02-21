@@ -352,4 +352,105 @@ Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunicat
 Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Maria-Chiquita Panama
 Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 San-Juan-PR United-States
 Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Tortola Virgin-Islands
-
+Pacific-Crossing1 NTT 1999 21000 Ajigaura Japan
+Pacific-Crossing1 NTT 1999 21000 Grover-Beach-CA United-States
+Pacific-Crossing1 NTT 1999 21000 Harbour-Pointe-WA United-States
+Pacific-Crossing1 NTT 1999 21000 Shima Japan
+Pacific-Light-Cable-Network Pacific-Light-Data-CommunicationCoLtd 2020 12971 Baler Philippines
+Pacific-Light-Cable-Network Pacific-Light-Data-CommunicationCoLtd 2020 12971 Deep-Water-Bay-Hong-Kong China
+Pacific-Light-Cable-Network Pacific-Light-Data-CommunicationCoLtd 2020 12971 El-Segundo-CA United-States
+Pacific-Light-Cable-Network Pacific-Light-Data-CommunicationCoLtd 2020 12971 San-Fernando-City Philippines
+Pacific-Light-Cable-Network Pacific-Light-Data-CommunicationCoLtd 2020 12971 Toucheng Taiwan
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Agats Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Baa Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Kep-Aru Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Kokar Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Kota-Mappi Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Kupang Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Manokwari Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Nabire Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Seba Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Serwaru Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Suemlaki Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Supiori Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Teluk Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Tiakur Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Timika Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Tual Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Waingapu Indonesia
+Palapa-Ring-East-Indonesian-Government-Moratelindo-Telekom-PT-SmartFren 2019 6300 Yapen Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Bangga Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Baubau Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Buranga Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Kendari Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Lakudo Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Luwuk Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Manado Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Melonguane Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Morotai Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Ondong Siau Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Raha Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Salakan Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Sanana Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Sofifi Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Tahuna Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Taliabu Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Terante Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Tidore Indonesia 
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Tobelo Indonesia
+Palapa-Ring-Middle Indonesian-Government 2018 2100 Wawonii Indonesia
+Palapa-Ring-West  Indonesian-Government 2018 1980 Batam Indonesia
+Palapa-Ring-West  Indonesian-Government 2018 1980 Lingga Indonesia
+Palapa-Ring-West  Indonesian-Government 2018 1980 Natuna Indonesia
+Palapa-Ring-West  Indonesian-Government 2018 1980 Singkawang Indonesia
+Palapa-Ring-West  Indonesian-Government 2018 1980 Terempa Indonesia
+Palawa-Iloilo-Cable-System  PLDT 2014 300 San-Jose-de-Buenavista Philippines
+Palawa-Iloilo-Cable-System  PLDT 2014 300 Taytay Philippines
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Arica Chile
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Baby-Beach Aruba
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Barranquilla Colombia
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Colon Panama
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Lurin Peru
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Panama-City Panama
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Punta-Carnero Ecuador
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 Punto-Fijo Venezuela
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 StCroix-VI United-States
+Pan-American  AT&T-Telefonica-del-Peru-Softbank-Telecom-Telecom-Italia-Sparkle-Sprint-CANTV-Tata-Communications-Telefónica-de-Argentina-Telstra-Verizon-Entel-Chile-Telecom-Argentina-Telconet-Instituto-Costarricense-de-Electricidad-C&W-Networks-Embratel-CNT 1999 7225 StThomas Virgin-Islands 
+Pan-European-Crossing CenturyLink 1999 117 Bredene Belgium
+Pan-European-Crossing CenturyLink 1999 117 Dumpton-Gap United-Kingdom
+Pan-European-Crossing CenturyLink 2000 495 Ballinesker Ireland
+Pan-European-Crossing CenturyLink 2000 495 Ballygrangans Ireland
+Pan-European-Crossing CenturyLink 2000 495 Bude United-Kingdom
+Pan-European-Crossing CenturyLink 2000 495 Whitesands-Bay United-Kingdom
+Pan-American-Crossing CenturyLink 2000 10000 Fort-Amador Panama
+Pan-American-Crossing CenturyLink 2000 10000 Grover-Beach-CA United-States
+Pan-American-Crossing CenturyLink 2000 10000 Mazatlán Mexico
+Pan-American-Crossing CenturyLink 2000 10000 Tijuana Mexico
+Pan-American-Crossing CenturyLink 2000 10000 Unqui Costa-Rica
+Paniolo-Cable-Network na 2009 576 Hawaii-Kai-HI United-States
+Paniolo-Cable-Network na 2009 576 Kaunakakai-HI United-States
+Paniolo-Cable-Network na 2009 576 Kawaihae-HI United-States
+Paniolo-Cable-Network na 2009 576 Kekaha-HI United-States
+Paniolo-Cable-Network na 2009 576 Lahaina-HI United-States
+Paniolo-Cable-Network na 2009 576 Makaha-HI United-States
+Paniolo-Cable-Network na 2009 576 Makena-HI United-States
+PASULI XL-Axiata-FiberStar 2019 40 Muntok Indonesia 
+PASULI XL-Axiata-FiberStar 2019 40 Sungsang Indonesia
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Abu Talat Egypt
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Bosaso Somalia
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Djibouti-City Djibouti
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Gwadar Pakistan
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Hobyo Somalia
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Karachi Pakistan
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Kismayo Somalia
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Marseille France
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Mogadishu Somalia
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Mombasa Kenya
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Victoria Seychelles
+PEACE-Cable Peace-Cable-International-Network-CoLtd 2021 15000 Zafarana Egypt
+PENBAL-5 Telefonica 1994 309 Gavá Spain
+PENBAL-5 Telefonica 1994 309 Ses-Covetes Spain
+Pencan-8 Telefonica 2011 1400 Candelaria-Canary-Islands Spain
+Pencan-8 Telefonica 2011 1400 Conil Spain
+Persona EastLink 2008 800 New-Victoria-NS Canada
+Persona EastLink 2008 800 Rose-Blanche-NL Canada
