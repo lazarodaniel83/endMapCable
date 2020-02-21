@@ -259,3 +259,97 @@ Monet Angola-Cables-Google-Algar-Telecom-Antel-Uruguay 2017 10556 Fortaleza Braz
 Monet Angola-Cables-Google-Algar-Telecom-Antel-Uruguay 2017 10556 Santos Brazil
 Moratelindo-International-Cable-System1 Moratelindo 2008 70 Batam Indonesia
 Moratelindo-International-Cable-System1 Moratelindo 2008 70 Changi-North Singapore
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Andalsnes Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Bergen Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Brekstad Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Herlandsvika Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Hyllestad Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Kristiansund Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Molde Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Måløy Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Smola Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Sture Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Trondheim Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Ulsteinvik Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Vassbygda Norway
+N0R5KE-Viking  NOR5KE-Fibre-AS 2021 750 Ålesund Norway
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 Cagayan Philippines
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 Cuyapo Philippines
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 Dumaguete Philippines
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 Lucena Philippines
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 Roxas-City Philippines
+National-Digital-Transmission-Network Telecoms-Infrastructure-Corporation-of-the-Philippines 1999 1400 San-Jose Philippines
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Eydhafushi Maldive
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Hithadhoo Maldives
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Hulhumale Maldives
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Kolhufushi Maldives
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Kulhudhufushi Maldives
+Nationwide-Submarine-Cable-Ooredoo-Maldives Ooredoo-Maldives 2017 1136 Thinadhoo Maldives
+NATITUA OPT-French-Polynesia 2018 2400 Arutua French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Fakarava French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Hao French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Hitiaa French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Hiva-Oa French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Kaukura French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Makemo French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Manihi French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Nuku-Hiva French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Rangiroa French-Polynesia
+NATITUA OPT-French-Polynesia 2018 2400 Takaroa French-Polynesia
+Nelson-Levin Spark-New-Zealand 2001 212 Levin New-Zealand
+Nelson-Levin Spark-New-Zealand 2001 212 Nelson New-Zealand
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Busan South-Korea
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Chongming China
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Lingang China
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Maruyama Japan
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chun hwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Nanhui China
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Pacific-City-OR United-States
+New-Cross-Pacific-Cable-System China-Telecom-China-Unicom-Chunghwa-Telecom-KT-China-Mobile-Microsoft-Softbank-Telecom 2018 13618 Toucheng Taiwan
+Nigeria-Cameroon-Submarine-Cable-System 2015 1100 Kribi Cameroon
+Nigeria-Cameroon-Submarine-Cable-System 2015 1100 Lagos Nigeria
+NordBalt  Lietuvos-Energija-Svenska-Kraftnät 2016 400 Klaipeda Lithuania
+NordBalt  Lietuvos-Energija-Svenska-Kraftnät 2016 400 Nybro Sweden
+North-Sea-Connect Aqua Comms 2020 700 Esbjerg Denmark
+North-Sea-Connect Aqua Comms 2020 700 Newcastle United-Kingdom
+North-West-Cable-System Vocus-Communications 2016 2100 Darwin Australia
+North-West-Cable-System Vocus-Communications 2016 2100 Port-Hedland Australia
+North-West-Cable-System Vocus-Communications 2016 2100 Wurrumiyanga Australia
+Northern-Lights BT 2008 67 Dunnet-Head United-Kingdom
+Northern-Lights BT 2008 67 Skaill United-Kingdom
+NorthStar-Alaska-Communications 1999 3229 Hillsboro-OR United-States
+NorthStar-Alaska-Communications 1999 3229 Lena Point-AK United-States
+NorthStar-Alaska-Communications 1999 3229 Valdez-AK United-States
+NorthStar-Alaska-Communications 1999 3229 Whittier-AK United-States
+Nunavut-Undersea-Fibre-Optic-Network-System Government-of-Nunavut 2023 1700 Cape-Dorset-NU Canada
+Nunavut-Undersea-Fibre-Optic-Network-System Government-of-Nunavut 2023 1700 Iqaluit-NU Canada
+Nunavut-Undersea-Fibre-Optic-Network-System Government-of-Nunavut 2023 1700 Kimmirut-NU Canada
+Nunavut-Undersea-Fibre-Optic-Network-System Government-of-Nunavut 2023 1700 Nuuk Greenland
+NYNJ1 Cleareon-Fiber-Networks 2020 80 Jones-Beach-Island-NY United-States
+NYNJ1 Cleareon-Fiber-Networks 2020 80 Sayreville-NJ United-States
+Okinawa-Cellular-Cable Okinawa-Cellular-Telephone-Company 2020 760 Kagoshima Japan
+Okinawa-Cellular-Cable Okinawa-Cellular-Telephone-Company 2020 760 Nago Japan
+Oman-Australia-Cable SUBCO 2021 9800 Muscat Oman 
+Oman-Australia-Cable SUBCO 2021 9800 Perth Australia
+OMRAN-EPEG-Cable-System Omantel-Vodafone 2013 600 Barka Oman
+OMRAN-EPEG-Cable-System Omantel-Vodafone 2013 600 Chabahar Iran
+OMRAN-EPEG-Cable-System Omantel-Vodafone 2013 600 Diba Oman
+OMRAN-EPEG-Cable-System Omantel-Vodafone 2013 600 Jask Iran
+OMRAN-EPEG-Cable-System Omantel-Vodafone 2013 600 Khasab Oman
+Oran-Valencia Algerie-Telecom 2019 770 Algiers Algeria
+Oran-Valencia Algerie-Telecom 2019 770 Oran Algeria
+Oran-Valencia Algerie-Telecom 2019 770 Valencia Spain
+Orient-Express  du-Wi-Tribe 2020 1300 Fujairah United-Arab-Emirates
+Orient-Express  du-Wi-Tribe 2020 1300 Gwadar Pakistan
+Orient-Express  du-Wi-Tribe 2020 1300 Karachi Pakistan
+OTEGLOBE-Kokkini-Bari OTEGLOBE 2004 700 Bari Italy
+OTEGLOBE-Kokkini-Bari OTEGLOBE 2004 700 Kokkini Greece
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Balboa Panama
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Cartagena Colombia
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Hudishibana Aruba
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Jacksonville-FL United-States
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Mahuma Curaçao
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Manta Ecuador
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Maria-Chiquita Panama
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 San-Juan-PR United-States
+Pacific-Caribbean-Cable-System C&W Networks-Telconet-Setar-United-Telecommunication-Services-Telxius 2015 6000 Tortola Virgin-Islands
+
