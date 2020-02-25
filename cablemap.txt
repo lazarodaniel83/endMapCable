@@ -830,3 +830,178 @@ SxS RTI 2022 10400 LosAngeles-CA United-States
 SxS RTI 2022 10400 Piti-GU United-States
 Taba-Aqaba NationalElectricPower-CompanyofJordan 1998 13 Aqaba Jordan
 Taba-Aqaba NationalElectricPower-CompanyofJordan 1998 13 Taba Egypt
+Taino-Carib AT&T-Embratel-Orange-C&WNetworks 1992 186 Condado-Beach-PR United-States
+Taino-Carib AT&T-Embratel-Orange-C&WNetworks 1992 186 IslaVerde-PR United-States
+Taino-Carib AT&T-Embratel-Orange-C&WNetworks 1992 186 Magens-Bay-VI United-States
+Taiwan-Strait-Express1 ChinaUnicom-FarEastoneTelecommunications-TaiwanMobile-ChinaTelecom-ChunghwaTelecom-ChinaMobile 2013 260 Fuzhou China
+Taiwan-Strait-Express1 ChinaUnicom-FarEastoneTelecommunications-TaiwanMobile-ChinaTelecom-ChunghwaTelecom-ChinaMobile 2013 260 Tanshui Taiwan
+Tamares-North Tamares-UK-Group 2012 345 Haifa Israel
+Tamares-North Tamares-UK-Group 2012 345 Yeroskipos Cyprus
+Tampnet-Offshore-FOC-Network Tampnet 1999 1751 Aberdeen United-Kingdom
+Tampnet-Offshore-FOC-Network Tampnet 1999 1751 Farsund Norway
+Tampnet-Offshore-FOC-Network Tampnet 1999 1751 Kårstø Norway
+Tampnet-Offshore-FOC-Network Tampnet 1999 1751 Lowestoft United-Kingdom
+Tampnet-Offshore-FOC-Network Tampnet 1999 1751 Øygarden Norway
+Tangerine CenturyLink 2000 112 Broadstairs United-Kingdom
+Tangerine CenturyLink 2000 112 Ostend Belgium 
+Tanjun-Pandan-Sungai-Kakap-Cable-System Moratelindo 2019 348 Sungai-Kakap Indonesia
+Tanjun-Pandan-Sungai-Kakap-Cable-System Moratelindo 2019 348 Tanjung-Pandan Indonesia
+Tannat Google-AntelUruguay 2018 2000 Las-Toninas Argentina
+Tannat Google-AntelUruguay 2018 2000 Maldonado Uruguay
+Tannat Google-AntelUruguay 2018 2000 Santos Brazil
+Tarakan-Selor-Cable-System Telkom Indonesia 2014 83 Tanjung-Selor Indonesia
+Tarakan-Selor-Cable-System Telkom Indonesia 2014 83 Tarakan Indonesia
+Tasman-Global-Access-Cable Spark-NewZealand-Vodafone-Telstra 2017 2288 Oxford-Falls Australia
+Tasman-Global-Access-Cable Spark-NewZealand-Vodafone-Telstra 2017 2288 Raglan NewZealand
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Blaabjerg Denmark
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Bude United-Kingdom
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Katwijk Netherlands
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Manasquan-NJ United-States
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Norden Germany
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 St-Austell United-Kingdom
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 St-Valéry France
+TAT14 BT-Verizon-DeutscheTelekom-OrangeSprint-TeliaCarrier-KPN-Telenor-Etisalat-OTEGLOBE-Singtel-KDDI-SoftbankTelecom-ZayoGroup-PortugalTelecom-SlovakTelekom-TDCGroup-Telus-Tata-Communications-Telefonica-AT&T-BICS-ElisaCorporation-Cyta-Rostelecom-CenturyLink 2001 15295 Tuckerton-NJ United-States 
+Tata TGN-Atlantic Tata-Communications 2001 13000 Highbridge United-Kingdom
+Tata TGN-Atlantic Tata-Communications 2001 13000 Wall-Township-NJ United-States
+Tata TGN-Gulf Tata-Communications 2012 4031 Al-Khobar Saudi-Arabia
+Tata TGN-Gulf Tata-Communications 2012 4031 Al-Kheesa Qatar
+Tata TGN-Gulf Tata-Communications 2012 4031 Amwaj-Island Bahrain
+Tata TGN-Gulf Tata-Communications 2012 4031 Dubai United-Arab-Emirates
+Tata TGN-Gulf Tata-Communications 2012 4031 Fujairah United-Arab-Emirates
+Tata TGN-Gulf Tata-Communications 2012 4031 Qalhat Oman
+Tata-TGN-Intra-Asia Tata-Communications 2009 6700 Ballesteros Philippines
+Tata-TGN-Intra-Asia Tata-Communications 2009 6700 Changi North Singapore
+Tata-TGN-Intra-Asia Tata-Communications 2009 6700 Deep-Water-Bay HongKong China
+Tata-TGN-Intra-Asia Tata-Communications 2009 6700 Vung-Tau Vietnam
+Tata TGN-Pacific Tata-Communications 2002 22300 Emi Japan
+Tata TGN-Pacific Tata-Communications 2002 22300 Hillsboro-OR United-States
+Tata TGN-Pacific Tata-Communications 2002 22300 LosAngeles-CA United-States
+Tata TGN-Pacific Tata-Communications 2002 22300 Piti-GU United-States
+Tata TGN-Pacific Tata-Communications 2002 22300 Toyohashi Japan
+Tata TGN-Tata-Indicom3 Tata-Communications 2004 3175 Changi North Singapore
+Tata TGN-Tata-Indicom3 Tata-Communications 2004 3175 Chennai India
+Tata-TGN-Western-Europe Tata-Communications 2002 3578 Bilbao Spain
+Tata-TGN-Western-Europe Tata-Communications 2002 3578 Highbridge United-Kingdom
+Tata-TGN-Western-Europe Tata-Communications 2002 3578 Seixal Portugal 
+TE-North-TGN-Eurasia-SEACOM-Alexandros-Medex TelecomEgypt-Cyta-SEACOM-TataCommunications-AlgerieTelecom-PCCW 2011 3634 Abu-Talat Egypt
+TE-North-TGN-Eurasia-SEACOM-Alexandros-Medex TelecomEgypt-Cyta-SEACOM-TataCommunications-AlgerieTelecom-PCCW 2011 3634 Annaba Algeria
+TE-North-TGN-Eurasia-SEACOM-Alexandros-Medex TelecomEgypt-Cyta-SEACOM-TataCommunications-AlgerieTelecom-PCCW 2011 3634 Marseille France
+TE-North-TGN-Eurasia-SEACOM-Alexandros-Medex TelecomEgypt-Cyta-SEACOM-TataCommunications-AlgerieTelecom-PCCW 2011 3634 Pentaskhinos Cyprus 
+Telstra-Endeavour Telstra 2008 9125 Keawaula-HI United-States
+Telstra-Endeavour Telstra 2008 9125 Paddington Australia
+Tenerife-Gran-Canaria Telefonica 1999 110 El Médano, Canary Islands Spain
+Tenerife-Gran-Canaria Telefonica 1999 110 Sardina, Canary-
+Islands Spain
+Tenerife-La-Gomera-La-Palma Telefonica 1994 222 Granadilla Canary-Islands Spain
+Tenerife-La-Gomera-La-Palma Telefonica 1994 222 SanSebastian-de-laGomera Canary-Islands Spain
+Tenerife-La-Gomera-La-Palma Telefonica 1994 222 SantaCruz-de-La-Palma Canary-Islands Spain
+Tenerife-La-Palma Telefonica na na LosRealejos-Canary-Islands Spain
+Tenerife-La-Palma Telefonica SantaCruzdeLaPalma-CanaryIslands Spain
+TERRA-SW GCI 2012 na FishCamp-AK United-States
+TERRA-SW GCI 2012 na Homer-AK United-States
+TERRA-SW GCI 2012 na Igiugig-AK United-States
+TERRA-SW GCI 2012 na Illiamna-AK United-States
+TERRA-SW GCI 2012 na Kokhanok-AK United-States
+TERRA-SW GCI 2012 na Newhalen-AK United-States
+TERRA-SW GCI 2012 na Nondalton-AK United-States
+TERRA-SW GCI 2012 na PedroBay-AK United-States
+TERRA-SW GCI 2012 na PileBay-AK United-States
+TERRA-SW GCI 2012 na Port-Alsworth-AK United-States
+TERRA-SW GCI 2012 na Williamsport-AK United-States
+Thailand-Indonesia-Singapore Singtel-CATTelecomPublicCompanyLimited-TelkomIndonesia 2003 968 Batam Indonesia
+Thailand-Indonesia-Singapore Singtel-CATTelecomPublicCompanyLimited-TelkomIndonesia 2003 968 Changi-North Singapore
+Thailand-Indonesia-Singapore Singtel-CATTelecomPublicCompanyLimited-TelkomIndonesia 2003 968 Songkhla Thailand
+The-East-African-Marine-System Etisalat-TEAMS-Ltd 2009 4900 Fujairah United-Arab-Emirates
+The-East-African-Marine-System Etisalat-TEAMS-Ltd 2009 4900 Mombasa Kenya
+Tobrok-Emasaed-Cable-System Libya-International-Telecommunications-Company 2010 178 El-Quawef Libya
+Tobrok-Emasaed-Cable-System Libya-International-Telecommunications-Company 2010 178 Tubruq Libya
+Tokelau-Submarine-Cable Teletok 2021 250 Atafu Tokelau
+Tokelau-Submarine-Cable Teletok 2021 250 Fakaofa Tokelau
+Tokelau-Submarine-Cable Teletok 2021 250 Nukunonu Tokelau
+Tonga-Cable Tonga-Communications-Corporation-Government-of-Tonga-Digicel-Tonga 2013 827 Nukualofa Tonga
+Tonga-Cable Tonga-Communications-Corporation-Government-of-Tonga-Digicel-Tonga 2013 827 Suva Fiji
+Tonga-Domestic-Cable-Extension 2018 410 Neiafu Tonga
+Tonga-Domestic-Cable-Extension 2018 410 Nukualofa Tonga
+Tonga-Domestic-Cable-Extension 2018 410 Pangai Tonga
+Trans-Pacific-Express-Cable-System 2008 17000 Chongming China
+Trans-Pacific-Express-Cable-System 2008 17000 Geoje South-Korea
+Trans-Pacific-Express-Cable-System 2008 17000 Maruyama Japan
+Trans-Pacific-Express-Cable-System 2008 17000 Nedonna-Beach-OR United-States
+Trans-Pacific-Express-Cable-System 2008 17000 Qingdao China Tanshui Taiwan
+Transworld TransWorld-Associates-Limited 2006 1300 Al-Seeb Oman
+Transworld TransWorld-Associates-Limited 2006 1300 Fujairah United-Arab-Emirates
+Transworld TransWorld-Associates-Limited 2006 1300 Karachi Pakistan
+Trapani-Kelibia TunisiaTelecom-TelecomItaliaSparkle 1995 209 Kelibia Tunisia
+Trapani-Kelibia TunisiaTelecom-TelecomItaliaSparkle 1995 209 Trapani Italy
+TT1  C&WNetworks-TSTT-AllianceTelecommunications 2012 48 Pigeon-Point Trinidad-and-Tobago
+TT1  C&WNetworks-TSTT-AllianceTelecommunications 2012 48 Toco Trinidad-and-Tobago
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Apia Samoa
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Leava Wallis-and-Futuna
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Mata-Utu Wallis-and-Futuna
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Savusavu Fiji
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Suva Fiji
+Tui-Samoa Samoa-Submarine-Cable-Company 2018 1693 Tuasivi Samoa
+Turcyos1 Turk-Telekom 1993 110 Girne Cyprus
+Turcyos1 Turk-Telekom 1993 110 Mersin Turkey
+Turcyos2 Turk-Telekom 2011 213 Iskele Cyprus
+Turcyos2 Turk-Telekom 2011 213 Samandag Turkey
+Tverrlinken KystTele 2010 na Hemnesberget Norway
+Tverrlinken KystTele 2010 na Mo-I-Rana Norway
+Tverrlinken KystTele 2010 na Nesna Norway
+Tverrlinken KystTele 2010 na Utskarpen Norway
+UAE-Iran Etisalat-Telecommunication-Infrastructure-Company-of-Iran 1992 170 Fujairah United-Arab-Emirates
+UAE-Iran Etisalat-Telecommunication-Infrastructure-Company-of-Iran 1992 170 Jask Iran
+UGARIT Cyta-TataCommunications-TelecomItaliaSparkle-BT-TelekomAustria-AT&T-Orange-LebaneseMinistryofTelecommunications-Singtel-Telefonica-SyrianTelecommunicationsEstablishment-Vivacom-DeutscheTelekom 1995 239 Pentaskhinos Cyprus
+UGARIT Cyta-TataCommunications-TelecomItaliaSparkle-BT-TelekomAustria-AT&T-Orange-LebaneseMinistryofTelecommunications-Singtel-Telefonica-SyrianTelecommunicationsEstablishment-Vivacom-DeutscheTelekom 1995 239 Tartous Syria
+UK-Channel-Islands7 Sure-BT 1994 124 Dartmouth United-Kingdom
+UK-Channel-Islands7 Sure-BT 1994 124 LAncresse-Bay Guernsey
+UK-Channel-Islands8 na 1994 237 Goonhilly-Downs United-Kingdom
+UK-Channel-Islands8 na 1994 237 St-Ouens-Bay Jersey
+UK-Netherlands14 KPN 1996 208 Egmond Netherlands
+UK-Netherlands14 KPN 1996 208 Winterton-on-Sea United-Kingdom
+Ultramar-GE Gestor-de-Infraestructuras-de-Telecomunicaciones-de-Guinea-Ecuatoria 2019 263 Annobon Equatorial-Guinea
+Ultramar-GE Gestor-de-Infraestructuras-de-Telecomunicaciones-de-Guinea-Ecuatoria 2019 263 Sao-Tome Sao-Tome-and-Principe
+Ulysses2 Verizon 1997 na Ijmuiden Netherlands
+Ulysses2 Verizon 1997 na Lowestoft United-Kingdom
+Unisur Antel-Uruguay Telxius 1995 265 Las-Toninas Argentina
+Unisur Antel-Uruguay Telxius 1995 265 Maldonado Uruguay
+Unity-EAC-Pacific Telstra-Google-Singtel-KDDI-Airtel-TIME-dotCom 2010 9620 Chikura Japan
+Unity-EAC-Pacific Telstra-Google-Singtel-KDDI-Airtel-TIME-dotCom 2010 9620 Redondo-Beach-CA United-States
+Venezuela Festoon CANTV 1998 1200 Cabimas Venezuela
+Venezuela Festoon CANTV 1998 1200 Camuri Venezuela
+Venezuela Festoon CANTV 1998 1200 Carúpano Venezuela
+Venezuela Festoon CANTV 1998 1200 Chichiriviche Venezuela
+Venezuela Festoon CANTV 1998 1200 Coro Venezuela 
+Venezuela Festoon CANTV 1998 1200 Cumaná Venezuela
+Venezuela Festoon CANTV 1998 1200 Higuerote Venezuela
+Venezuela Festoon CANTV 1998 1200 Maracaibo Venezuela
+Venezuela Festoon CANTV 1998 1200 Porlamar Venezuela
+Venezuela Festoon CANTV 1998 1200 Puerto Cabello Venezuela
+Venezuela Festoon CANTV 1998 1200 Puerto-La-Cruz Venezuela
+Venezuela Festoon CANTV 1998 1200 Punto-Fijo Venezuela
+Vodafone-Malta-Sicily-Cable-System Vodafone-Malta 2004 260 Balluta Bay Malta
+Vodafone-Malta-Sicily-Cable-System Vodafone-Malta 2004 260 Catania Italy
+WALL-LI Crosslake-Fibre 2021 60 Wall-Township-NJ United-States
+WALL-LI Crosslake-Fibre 2021 60 Westbury-NY United-States
+WARF-Submarine-Cable WataniyaTelecomMaldives-FocusInfocom-GlobalCloudXchange 2007 680 Colombo Sri-Lanka
+WARF-Submarine-Cable WataniyaTelecomMaldives-FocusInfocom-GlobalCloudXchange 2007 680 Male Maldives
+WARF-Submarine-Cable WataniyaTelecomMaldives-FocusInfocom-GlobalCloudXchange 2007 680 Trivendrum India
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Abidjan Côte-dIvoire
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Accra Ghana
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 AltaVista-Canary-Islands Spain
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Lagos Nigeria
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Limbe Cameroon
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Lome Togo
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Muanda Congo-Dem-Rep
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Pointe-Noire Congo-Rep
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Praia Cape-Verde
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Sangano Angola
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Seixal Portugal
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Swakopmund Namibia
+West-African-Cable-System BroadbandInfraco-TelkomSouthAfrica-VodacomDRC-MTN-TataCommunications-TogoTelecom-TelecomNamibia-OfficeCongolaisdePosteetTélécommunication-CongoTelecom-PortugalTelecom-AngolaCables-CapeVerdeTelecom-VodafoneEspana-Vodafone-Neotel-PCCW-Camtel-VodafoneGhana 2012 14530 Yzerfontein South-Africa
+X-Link-Submarine-Cable E-Networks 2019 775 Georgetown Guyana
+X-Link-Submarine-Cable E-Networks 2019 775 Pegwell Barbados
+X-Link-Submarine-Cable E-Networks 2019 775 Port-Salines Grenada
+X-Link-Submarine-Cable E-Networks 2019 775 Totness Suriname
+Yellow  CenturyLink 2000 7001 Bellport-NY United-States
+Yellow  CenturyLink 2000 7001 Bude United-Kingdom
